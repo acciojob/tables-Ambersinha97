@@ -1,4 +1,4 @@
-thead {
+.table-dark {
 	color: white;
 	background-color: black;
 }
@@ -8,4 +8,7 @@ thead {
 #total {
 	border: 1px solid black;
 	font-family: text-end;
+}
+.table-light {
+	background-color: lightgray;
 }
