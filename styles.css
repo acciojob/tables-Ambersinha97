@@ -1,2 +1,11 @@
-
-/* Your CSS Code here. */
+thead {
+	color: white;
+	background-color: black;
+}
+.table {
+	border: 1px solid black; 
+}
+#total {
+	border: 1px solid black;
+	font-family: text-end;
+}
