@@ -4,11 +4,12 @@
 }
 .table {
 	border: 1px solid black; 
-}
-#total {
-	border: 1px solid black;
 	font-family: text-end;
 }
+
 .table-light {
 	background-color: lightgray;
+}
+td{
+	text-align: center;
 }
